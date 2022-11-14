@@ -1,4 +1,5 @@
 import streamlit as st
+import torch
 
 def main():
     # set page layout
