@@ -1,5 +1,4 @@
 channels:
-  - conda-forge
+  - pytorch
 dependencies:
   - pytorch
-  - streamlit
