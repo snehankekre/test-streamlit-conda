@@ -1,6 +1,4 @@
-name: delete
 channels:
   - conda-forge
 dependencies:
   - streamlit
-  - ezc3d
