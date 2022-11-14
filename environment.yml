@@ -1,7 +1,5 @@
 channels:
   - conda-forge
 dependencies:
-  - pip
-  - pip:
-    - streamlit
-    - torch
+  - pytorch
+  - streamlit
